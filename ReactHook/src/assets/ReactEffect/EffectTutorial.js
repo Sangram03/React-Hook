@@ -26,9 +26,10 @@ function EffectTutorial (){
         setCount(count+1)
        }}
        >
-        
+
        </button>
         </div>
+        // new
 }
 
 export default EffectTutorial
