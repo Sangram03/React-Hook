@@ -1,4 +1,24 @@
-Here’s a clear and concise **README-style explanation** of `useState` in React:
+
+Here’s a clear **definition** of `useState` in React:
+
+---
+
+### 📘 Definition of `useState` in React
+
+**`useState`** is a React Hook that allows functional components to have and manage internal state. It returns an array with two elements: the **current state value** and a **function to update that state**. `useState` enables reactivity in a component—when the state is updated, React automatically re-renders the component with the new value.
+
+---
+
+### 🔤 Simple Definition:
+
+> **`useState`** is a built-in React Hook that lets you store and update values (state) in a functional component.
+
+---
+
+### ✅ Example Definition in One Line:
+
+> `useState` is a function that enables local state management in React functional components by returning a state variable and an updater function.
+
 
 ---
 
